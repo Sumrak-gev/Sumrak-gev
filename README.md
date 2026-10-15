@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="media/banner.gif" width="850" alt="media/banner.gif">
+<img src="banner.gif" width="850" alt="banner.gif">
 
 # hey, i’m Sumrak-gev 
 
