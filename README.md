@@ -1,16 +1,6 @@
-<!--
-ПЕРЕД ПУБЛИКАЦИЕЙ:
-1. Если смените логин, замените Sumrak-gev во всём файле на новый.
-2. При желании измените имя в заголовке и в блоке developer.
-3. Добавьте свои картинки в media/banner.gif и media/after-hours.gif.
-   Можно использовать JPG/PNG/WebP: поменяйте расширение в src.
-4. При желании раскомментируйте контакты в конце файла.
-Этот README предназначен для репозитория Sumrak-gev/Sumrak-gev.
--->
 
 <div align="center">
 
-<!-- МЕСТО ДЛЯ GIF / ФОТО № 1: широкий баннер. Рекомендуемая пропорция — 3:1. -->
 <img src="media/banner.gif" width="850" alt="Добавьте сюда свой баннер — media/banner.gif">
 
 # hey, i’m Sumrak-gev 
@@ -83,16 +73,6 @@
 
 ---
 
-### After hours
-
-<div align="center">
-
-<!-- МЕСТО ДЛЯ GIF / ФОТО № 2: аниме, любимый кадр, рабочее место или ваше фото. -->
-<img src="media/after-hours.gif" width="480" alt="Добавьте сюда GIF или фото — media/after-hours.gif">
-
-**☾ midnight sketch / 02**
-
-</div>
 
 ```text
 ⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -146,16 +126,11 @@
 
 ---
 
-### Say hello
+### Связь
 
 Буду рад знакомству с другими разработчиками, обмену опытом и совместному обучению.
 
 <a href="https://github.com/Sumrak-gev"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub"></a>
-
-<!-- КОНТАКТЫ: замените заглушки и удалите строки открытия/закрытия этого комментария.
-<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=89DCEB" alt="Telegram"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=F5C2E7" alt="Email"></a>
--->
 
 <div align="center">
 
