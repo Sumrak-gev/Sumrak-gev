@@ -1,8 +1,9 @@
 
 <div align="center">
-
-<img src="banner.gif" width="850" alt="banner.gif">
-
+  
+  <img src="./banner.gif" width="850" alt="Баннер профиля">
+  
+</div>
 # hey, i’m Sumrak-gev 
 
 **Начинающий разработчик · C++ / Python / Java / Web · learning by building**
